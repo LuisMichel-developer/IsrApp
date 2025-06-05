@@ -1,0 +1,14 @@
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\bin\Debug\net8.0\Calculo Isr.exe
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\bin\Debug\net8.0\Calculo Isr.deps.json
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\bin\Debug\net8.0\Calculo Isr.runtimeconfig.json
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\bin\Debug\net8.0\Calculo Isr.dll
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\bin\Debug\net8.0\Calculo Isr.pdb
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\Calculo Isr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\Calculo Isr.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\Calculo Isr.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\Calculo Isr.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\Calculo Isr.dll
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\refint\Calculo Isr.dll
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\Calculo Isr.pdb
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\Calculo Isr.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Escritorio\Calculo Isr\obj\Debug\net8.0\ref\Calculo Isr.dll
